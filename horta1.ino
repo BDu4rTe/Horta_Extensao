@@ -38,7 +38,7 @@ void loop() {
          //Sol moderado 201 - 800 e solo seco 801 - 1023
          digitalWrite(5, LOW);   
          digitalWrite(6, HIGH);
-         while (umidade >= 700 ) {
+         while (umidade >= 650 ) {
             digitalWrite(3, HIGH);   
             delay(500);
             digitalWrite(3, LOW);   
