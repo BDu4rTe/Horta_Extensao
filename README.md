@@ -3,8 +3,8 @@
 </h2>
 
 ### 🏁 》Introdução
-Esse é um projeto feito como avaliação de um curso de extensão da faculdade sobre IOT, 
-em resumo esse é um projeto simples para automatizar o processo de irrigação de uma horta
+Esse é um projeto feito como avaliação de um curso de extensão da faculdade sobre arduino e IOT, 
+em resumo esse é um projeto simples para automatizar o processo de irrigação de uma horta.
 
 
 ### ⚙ 》Componentes
